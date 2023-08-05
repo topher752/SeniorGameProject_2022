@@ -1,7 +1,7 @@
 # WPU Senior Collaboration Project 2022
 
 <div align="center">
-  <img src="https://github.com/topher752/SeniorGameProject_2022/assets/101429254/49ae78d8-9c50-4732-96db-220984375bf0" alt="Bakesmith" height="350px" />
+  <img src="./Assets/Sprites/UI/Bakesmith.png" alt="Bakesmith" height="350px" />
 </div>
 
 From William Peace University's Game Design Bachelor progam, SGD 411 is described as "A capstone experience in the 
@@ -34,6 +34,6 @@ Throughout our work process, we documented based off of deadlines from the cours
 
 
 <div align="center">
-  <img src="https://github.com/topher752/SeniorGameProject_2022/assets/101429254/f1e75599-f2c0-47dd-9ca7-9a7c9799149f" alt="companylogo" height="200px" />
+  <img src="./Assets/Sprites/UI/CompanyLogo.png" alt="companylogo" height="200px" />
 </div>
 
