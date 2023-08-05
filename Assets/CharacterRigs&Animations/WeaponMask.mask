@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WeaponMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Body/Eyebrows
+    m_Weight: 0
+  - m_Path: Body/Eyes
+    m_Weight: 0
+  - m_Path: Pelvis
+    m_Weight: 0
+  - m_Path: Pelvis/Hip
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Neck
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/Eyebrows
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/Eyes
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/TopOfHead
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/TopOfHead/Hair_Base
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/TopOfHead/Hair_Base/Hair
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Neck/Head/TopOfHead/Hat
+    m_Weight: 0
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left/Wrist_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left/Wrist_Left/Hand_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left/Wrist_Left/Hand_Left/Hand_Top_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left/Wrist_Left/Hand_Left/Thumb_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Left/Elbow_Left/Wrist_Left/Hand_Left/Thumb_Left/Thumb_Top_Left
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right/Hand_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right/Hand_Right/Hand_Top_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right/Hand_Right/Thumb_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right/Hand_Right/Thumb_Right/Thumb_Top_Right
+    m_Weight: 1
+  - m_Path: Pelvis/Hip/Chest/Sholder_Right/Elbow_Right/Wrist_Right/Hand_Right/Weapon
+    m_Weight: 1
+  - m_Path: Pelvis/Leg_Left
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Left/Knee_Left
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Left/Knee_Left/Ankle_left
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Left/Knee_Left/Ankle_left/Foot_left
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Left/Knee_Left/Ankle_left/Foot_left/Toe_Left
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Right
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Right/Knee_Right
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Right/Knee_Right/Ankle_Right
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Right/Knee_Right/Ankle_Right/Foot_Right
+    m_Weight: 0
+  - m_Path: Pelvis/Leg_Right/Knee_Right/Ankle_Right/Foot_Right/Toe_Right
+    m_Weight: 0
