@@ -14,6 +14,10 @@ also includes the visual assets and scripts made over the project. This project 
 Blender, Substance Painter, Procreate and Photoshop for all of our art and design assets and using Unity and Visual Studio Code for our main development.
 The README file will include links to each document and videos that were created to showcase our process.
 
+
+**To play our game, you can find it here on [Itch.io's _Bakesmith_](https://aaleaf.itch.io/bakesmith)**
+
+
 _Group Members_
 1. **Sean Ray**: Design Lead with a Secondary in Tech - Duties included weapon modeling, written dialogue, and the lore pages
 2. **Quadir Miller**: Support Lead with a Secondary in Tech - Duties included Sound Implementation and Creation
