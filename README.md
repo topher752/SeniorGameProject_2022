@@ -15,7 +15,7 @@ Blender, Substance Painter, Procreate and Photoshop for all of our art and desig
 The README file will include links to each document and videos that were created to showcase our process.
 
 
-**To play our game, you can find it here on [Itch.io's _Bakesmith_](https://aaleaf.itch.io/bakesmith)**
+**To play our game, you can find it here on [Itch.io's _Bakesmith_](https://aaleaf.itch.io/bakesmith) or view our  [Trailer and Gameplay](https://www.youtube.com/watch?v=qnohqXOBezs&ab_channel=acharmon_edu)**
 
 
 _Group Members_
@@ -34,7 +34,6 @@ Throughout our work process, we documented based off of deadlines from the cours
 2. [NPC Dialogue](https://docs.google.com/document/d/1Qrgvo6nI1F2rYCl9zFmqovEsK_xiduXy/edit?usp=sharing&ouid=112908703237745887955&rtpof=true&sd=true) - Main Dialogue used in-game
 3. [Lore Document](https://docs.google.com/document/d/1jGZNh6cKJT6oTTXmDDyjBAE3fozM94chkydbCpb-eSQ/edit?usp=sharing) - Lore text used when unlocking each (6) lore page
 4. [High Concept Document](https://docs.google.com/document/d/1oM-nFKDz51bjoCQi4ZjC97UStgDuKPEQC_wBbNPCjL0/edit?usp=sharing) - This includes our Visual Style, Player and Enemy Designs, our Learning Aspect, Story, Technical Requirements and our Schedule-to-follow 
-5. [_Bakesmith_ Trailer and Gameplay](https://www.youtube.com/watch?v=qnohqXOBezs&ab_channel=acharmon_edu)
 
 
 <div align="center">
